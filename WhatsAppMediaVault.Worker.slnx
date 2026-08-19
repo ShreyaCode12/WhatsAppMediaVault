@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="WhatsAppMediaVault.Api/WhatsAppMediaVault.Api.csproj" />
+  <Project Path="WhatsAppMediaVault.Core/WhatsAppMediaVault.Core.csproj" />
+  <Project Path="WhatsAppMediaVault.Worker/WhatsAppMediaVault.Worker.csproj" />
+</Solution>
